@@ -16,7 +16,7 @@
         <div class="flex items-center justify-between">
           <img
             class="size-12 rounded-full"
-            src="../../assets/footer-logo.jpg"
+            src="../../assets/ksa-logo.png"
             alt="Profile"
             loading="lazy"
           />

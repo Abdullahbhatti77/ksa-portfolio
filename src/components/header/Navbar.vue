@@ -7,7 +7,7 @@
       <div class="flex justify-between items-center">
         <div>
           <img
-            src="../../assets/footer-logo.jpg"
+            src="../../assets/ksa-logo.png"
             alt=""
             class="lg:size-12 size-9 rounded-full"
           />

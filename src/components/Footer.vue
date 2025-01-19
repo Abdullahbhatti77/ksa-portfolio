@@ -1,7 +1,7 @@
 <template>
   <footer class="py-20 text-center">
     <img
-      src="../assets/footer-logo.jpg"
+      src="../assets/ksa-logo.png"
       alt="Profile"
       class="rounded-full mx-auto mb-6 md:size-20 size-16"
       loading="lazy"
